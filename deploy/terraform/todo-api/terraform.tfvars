@@ -1,4 +1,4 @@
-appName = "luismorais-todoapp"
+appName = "lmoraisagap2-todoapp"
 appServiceName = "api"
-dbName = "luismorais-todoapp-db"
+dbName = "lmoraisagap2-todoapp-db"
 dbAdmin = "postgres"
