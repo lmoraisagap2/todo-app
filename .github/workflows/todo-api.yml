@@ -74,7 +74,7 @@ jobs:
         name: ${{ env.ARTIFACT_NAME }}-iac
         path: deploy/terraform/todo-api
 
-  staging:
+  stg:
     if: github.event_name != 'pull_request'
     environment: 
       name: stg
